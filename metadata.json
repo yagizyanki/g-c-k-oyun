@@ -1,0 +1,6 @@
+{
+  "name": "İmkânsız Zıplama: Rage Edition",
+  "description": "Zorlayıcı, sinir bozucu ve eğlenceli neon temalı 2D platform oyunu. 20 el yapımı seviye, tuzaklar, akıcı fizik ve Web Audio efektleri!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
